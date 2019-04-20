@@ -6,3 +6,5 @@
 - First time you open the launcher it will ask you to locate your "Battlestate Games" folder
 - When you want to play just launch this program instead of the original launcher (wich will be automatically chainloaded) 
 - The program must remain active when the game is on and will auto close whenever you quit the game
+
+![Banner](/master/screen.png?raw=true)

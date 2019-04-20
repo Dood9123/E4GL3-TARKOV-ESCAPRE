@@ -7,4 +7,6 @@
 - When you want to play just launch this program instead of the original launcher (wich will be automatically chainloaded) 
 - The program must remain active when the game is on and will auto close whenever you quit the game
 
+
+
 ![Banner](https://github.com/hy3nA/E4GL3-TARKOV-ESCAPRE/blob/master/screen.jpg?raw=true)
